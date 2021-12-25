@@ -1,0 +1,32 @@
+DOCTORS AVAILABLE for EMERGENCY: 
+
+1)   Name: Dr. M. Ali Mughal
+     Fees: Rs3500
+     Specialization: Trauma Surgeon, Chronic Obstructive Pulmonary Disease, Dementia, Assesment Of Hyper Tension And Ischemic Diseases
+     Years of Experience: 5 Years
+     Timings: 1PM to 5PM
+                
+2)   Name: Dr. Dania Aamir
+     Fees: Rs5000
+     Specialization: Pregnancy Care (Antenatal & Post-natal), Respiratory System, Neurological System
+     Years of Experience: 5 Years
+     Timings: 5PM to 8PM
+               
+3)   Name: Dr. S. Bilal Qureshi
+     Fees: Rs4000
+     Specialization: Cerebrovascular Accident, Minor Surgeries, Pituitary Disease, Emphysema, Irritable Bowel Syndrome, Vaccination
+     Years of Experience: 7 Years
+     Timings: 8PM to 11PM
+
+4)   Name: Dr. Abdullah Javaid
+     Fees: Rs5000
+     Specialization: Assesment Of Hyper Tension And Ischemic Diseases, Accident & Emergency, Minor Surgeries , Biopsy & Autopsy of all Types, Vaccination
+     Years of Experience: 8 Years
+     Timings: 12AM to 2AM
+
+5)   Name: Dr. M. Usman Akram
+     Fees: Rs3000
+     Specialization: Emergency Medicine Specialist
+     Years of Experience: 6 Years
+     Timings: 5AM to 8AM                
+                

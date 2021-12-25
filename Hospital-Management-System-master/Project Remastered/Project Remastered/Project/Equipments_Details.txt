@@ -1,0 +1,42 @@
+*******************DOCTORS EQUIPMENT DETAILS************************
+
+
+1.  Equipment Name: Injections
+    Equipment Available Quantity: 1000 Available
+    Equipment Price: Rs.40 per Injection
+
+2.  Equipment Name: Cannula
+    Equipment Available Quantity: 900 Available
+    Equipment Price: Rs.300 per Cannula
+
+3.  Equipment Name: Thermometer
+    Equipment Available Quantity: 700 Available
+    Equipment Price: Rs.250 per Thermometer
+
+4.  Equipment Name: Measuring Tape
+    Equipment Available Quantity: 600 Available
+    Equipment Price: Rs.500 per Tape
+
+5.  Equipment Name: Surgical Scissors
+    Equipment Available Quantity: 700 Available
+    Equipment Price: Rs.100 per Scissor
+
+6.  Equipment Name: Stethoscope
+    Equipment Available Quantity: 300 Available
+    Equipment Price: Rs.500 per Stethoscope
+
+7.  Equipment Name: Bandages
+    Equipment Available Quantity: 900 Available
+    Equipment Price: Rs.150 per Bandage
+
+8.  Equipment Name: Suction device
+    Equipment Available Quantity: 99 Available
+    Equipment Price: Rs.1500 per Device
+
+9.  Equipment Name: Kidney Dish
+    Equipment Available Quantity: 100 Available
+    Equipment Price: Rs.250 per Dish
+
+10. Equipment Name: Gauze Sponge
+    Equipment Available Quantity: 1200 Available
+    Equipment Price: Rs.400 per Sponge

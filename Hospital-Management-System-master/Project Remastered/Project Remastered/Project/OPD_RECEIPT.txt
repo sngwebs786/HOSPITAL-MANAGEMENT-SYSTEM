@@ -1,0 +1,27 @@
+OPD PATIENTS RECEIPTS: 	
+
+	
+	
+	
+
+PATIENT NAME: Hamza
+=====
+DISEASE: Cold and Flu
+REPORT TIME: 2:45 PM
+Apointed By: Dr. Anwar Maqsood
+
+|-------------------------------------|
+|     Bill Paid = Rs /- 5000          |
+|-------------------------------------|
+	
+	
+
+PATIENT NAME: Ali
+===
+DISEASE: Corona
+REPORT TIME: 4PM
+Apointed By: Dr. Anwar Maqsood
+
+|-------------------------------------|
+|     Bill Paid = Rs /- 5000          |
+|-------------------------------------|

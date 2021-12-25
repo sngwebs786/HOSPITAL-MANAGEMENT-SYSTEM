@@ -1,0 +1,51 @@
+**************AVAILABLE BLOOD DETAILS*************
+
+
+1)   Blood Group: A+  
+     Available Quantity: 10 Bottles 
+     Price For 1 Bottle: 1000  
+     Requirement Specially For Donor: Must Be Free From Any Kind Of Disease 
+     Requirement For Both Donor And Acceptor: Must Be Corona Vaccinated 
+=========================================================================
+
+2)   Blood Group: A- 
+     Available Quantity: 20 Bottles  
+     Price For 1 Bottle: 1000 
+     Requirement Specially For Donor: Must Be Free From Any Kind Of Disease 
+     Requirement Specially For Both Donor And Acceptor: Must Be Corona Vaccinated 
+=========================================================================
+
+3)   Blood Group: B+  
+     Available Quantity: 8 Bottles  
+     Price For 1 Bottle: 2000 
+     Requirement Specially For Donor: Must Be Free From Any Kind Of Disease 
+     Requirement For Both Donor And Acceptor: Must Be Corona Vaccinated 
+=========================================================================
+
+4)   Blood Group: B-  
+     Available Quantity: 12 Bottles  
+     Price For 1 Bottle: 1500 
+     Requirement Specially For Donor: Must Be Free From Any Kind Of Disease 
+     Requirement For Both Donor And Acceptor: Must Be Corona Vaccinated 
+=========================================================================
+
+5)   Blood Group: AB+  
+     Available Quantity: 16 Bottles  
+     Price For 1 Bottle: 1200 
+     Requirement Specially For Donor: Must Be Free From Any Kind Of Disease 
+     Requirement For Both Donor And Acceptor: Must Be Corona Vaccinated 
+=========================================================================
+
+6)   Blood Group: O+  
+     Available Quantity: 14 Bottles  
+     Price For 1 Bottle: 1600 
+     Requirement Specially For Donor: Must Be Free From Any Kind Of Disease 
+     Requirement For Both Donor And Acceptor: Must Be Corona Vaccinated 
+==========================================================================
+
+7)   Blood Group: O-  
+     Available Quantity: 15 Bottles  
+     Price For 1 Bottle: 1700 
+     Requirement Specially For Donor: Must Be Free From Any Kind Of Disease
+     Requirement For Both Donor And Acceptor: Must Be Corona Vaccinated  
+==========================================================================

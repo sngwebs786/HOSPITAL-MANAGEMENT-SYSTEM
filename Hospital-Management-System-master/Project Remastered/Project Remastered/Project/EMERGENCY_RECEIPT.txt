@@ -1,0 +1,22 @@
+EMERGENCY PATIENTS RECEIPTS:	
+
+	
+
+	
+
+PATIENT NAME: Rafay
+=====
+ID: 12
+ADDRESS: 47 Street Gulshan Iqbal, Karachi
+CNIC NUMBER: 4356-546553543535-56
+CONTACT NUMBER: 03097546354
+REPORT TIME: 3:45 PM
+Case: Internal Bleeding
+Treatment Performed By: Dr. S. Bilal Qureshi
+
+|-------------------------------------|
+|     Doctor's Fees = 4000            |
+|     Room Charges = 1500             |
+|     Total bill payed = Rs /- 5500   |
+|-------------------------------------|
+	

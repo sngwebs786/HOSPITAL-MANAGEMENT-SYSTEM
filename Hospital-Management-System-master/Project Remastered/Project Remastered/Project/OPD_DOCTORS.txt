@@ -1,0 +1,27 @@
+DOCTORS AVAILABLE for OPD: 
+
+1)   Name: Dr. Nashra Ghaffar
+     Fees: Rs5000 
+     Specialization: Child Specialist
+     Years of Experience: 5 Years
+     Timings: 1PM to 5PM
+                
+2)   Name: Dr. Anwar Maqsood
+     Fees: Rs5000
+     Specialization: Disease Specialist
+     Years of Experience: 7 Years
+     Timings: 5PM to 8PM
+               
+3)   Name: Dr. Umme Kulsoom
+     Fees: Rs6500
+     Specialization: Dermatologist
+     Years of Experience: 6 Years
+     Timings: 8PM to 11PM
+
+4)   Name: Dr. Abdul Hameed
+     Fees: Rs6000
+     Specialization: Nephrologist
+     Years of Experience: 8 Years
+     Timings: 8PM to 11PM        
+                
+      

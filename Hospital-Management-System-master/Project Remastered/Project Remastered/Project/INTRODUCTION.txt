@@ -1,0 +1,116 @@
+                                     
+                                          *******************************************************************************                  
+                                                                 DUA  HOSPITAL  MANAGEMENT  SYSTEM
+                                          *******************************************************************************
+
+
+OBJECTIVE:
+
+This project is based on “ HOSPITAL MANAGEMENT SYSTEM ” and in this project we have implemented the concepts of classes and objects. This project is capable of keeping
+record of the doctors and the patients that have visited the hospital.
+Hospital Management System provides the benefits of streamlined operations, enhanced administration & control, superior patient care, strict cost control and improved 
+profitability. HMS is powerful, flexible, and easy to use and is designed and developed to deliver real conceivable benefits to hospitals.
+
+
+PROJECT OVERVIEW:
+
+The Hospital Management System (HMS) is designed for any Hospital to replace their existing manual, paper based system. The new system is to control the following 
+information; patient information, room availability, staff and operating room schedules, and patient invoices. These services are to be provided in an efficient, cost
+effective manner, with the goal of reducing the time and resources currently required for such tasks.
+
+All of this information must be managed in an efficient and cost wise fashion so that an institution’s resources may be effectively utilized HMS will automate the 
+management of the hospital making it more effective and error free. It aims at standardizing data, consolidating data ensuring data integrity and reducing 
+inconsistencies.
+
+
+A significant part of the operation of any hospital involves the management and timely retrieval of great volumes of information. This information typically involves
+5 Main Classes and each Main Class consists of 3 Sub-Classes ; 
+
+       
+       			    |
+        MAIN CLASSES        |                                   SUB- CLASSES
+                            |
+                            |
+1) DETAILS                  |  includes PATEINT DETAILS, DOCTOR DETAILS and SIDEWROKER DETAILS as its Sub-Classes.
+                            |
+                            |
+2) MANAGEMENT               |  includes ROOM MANAGEMENT, AMBULANCE MANAGEMENT as its Sub-Classes.
+                            |  
+                            |                            
+3) PHARMACY                 |  includes MEDICINES, BLOODBANK and EQUIPMENTS as its Sub-Classes.
+                            |  
+                            |
+4) FINANCE                  |  includes OPD, EMERGENCY and LABORATORY as its Sub-Classes.
+                            |  
+                            |
+5) FEEDBACKS                |  includes HOSPITAL FEEDBACK, DOCTOR FEEDBACK and SIDEWROKERS FEEDBACK as its Sub-Classes.
+                            |
+
+
+Also this project has 4 Group members whom have implemented this management system and each Main Class of this system is implemented by each of the group members.
+ 
+
+GROUP MEMBERS: 
+
+GROUP MEMBER 1) 
+Name : Muhammad Abdul Rafay  
+Roll #: CT-012
+Workdone : Implemented Class MANAGEMENT and Class FEEDBACKS
+Overview:
+
+
+
+
+ 
+
+                
+GROUP MEMBER 2) 
+Name: Hamza Ahmed Khan
+Roll #: CT-035
+Workdone : Implemented Class FINANCE
+Overview: 
+
+This class is basically the FINANCE DEPART. of the Hospital which manages fee structures and charges of every Doctor avaialable in OPD, EMERGENCY and LABORATORY 
+sections including their timings and specializations and also maintains biling receipts of the Patients which includes their names,adresses,contact numbers,CNIC numbers 
+and also provide each of the Patient a separate IDs or Receipts to maintain their Hospital records and whenever they show their receits they get updated about their
+bilings and medical status.  
+
+For Example; 
+OPD (Outpatient Department) refers to those cases when the treatment and diagnosis of the ailment of the Patient is done on advice of a medical practitioner or doctor
+by simply visiting their clinic or any other consultation room in the Hospital. This Department provides a receipt to every Patient visiting for checkup and 
+maintain their details. 
+
+An Emergency Department (ED), also known as an Accident & Emergency Department (A&E), emergency room (ER), emergency ward (EW) or casualty department, is a 
+medical treatment facility specializing in emergency medicine, the acute care of patients who present without prior appointment either by their own means or 
+by that of an ambulance. This Department admits the Patient in the Emergency ward and also add their basic details and after casualities provide Patient a receipt
+so that they can pay their medical and room charges. 
+
+In LABORATORY Department whenever the Patient is recommended to get tested and bring their reports from the Laboratory prescribed by his Doctor or
+consultant so he provided a receipt to submit his/her details and get to know about his report status also with Laboratory Doctor's fees. 
+
+
+
+
+
+GROUP MEMBER 3) 
+Name: Minahil Tariq
+Roll #: CT-026
+Workdone: Implemented Class PHARMACY
+Overview: 
+
+
+
+
+
+
+
+GROUP MEMBER 4) 
+Name: Nashra Ghaffar
+Roll #: CT-032
+Workdone: Implmented Class DETAILS and Login Portal
+Overview:
+
+
+
+
+

@@ -1,0 +1,42 @@
+MEDICINE BUYERS DETAILS:
+
+
+	
+
+	
+
+BUYER: Minahil
+
+************************
+PONSTAN
+500mg
+Your bill is Rs500 /-
+************************
+	
+
+BUYER: Nashra
+
+************************
+CEFSPAN
+200mg
+Your bill is Rs400 /-
+************************
+	
+
+BUYER: Hamza
+
+************************
+VOLSEF
+500mg
+Your bill is Rs360 /-
+************************
+	
+	
+
+BUYER: PONSTAN
+
+************************
+PONSTAN
+500mg
+Your bill is Rs500 /-
+************************

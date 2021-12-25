@@ -1,0 +1,21 @@
+Ambulance type: Emergency
+Ambulance Vehichle Type: Car
+Ambulance number: AMV-422
+--------------------------------------------
+Ambulance type: Patient Transport
+Ambulance Vehichle Type: Van
+Ambulance number: ABF-436
+--------------------------------------------
+Ambulance type: Emergency
+Ambulance Vehichle Type: Car
+Ambulance number: AMV-422
+--------------------------------------------
+Ambulance type: Emergency
+Ambulance Vehichle Type: Car
+Ambulance number: APD-344
+--------------------------------------------
+
+Ambulance type: Patient Transport
+Ambulance Vehichle Type: car
+Ambulance number: BAJ-234
+--------------------------------------------

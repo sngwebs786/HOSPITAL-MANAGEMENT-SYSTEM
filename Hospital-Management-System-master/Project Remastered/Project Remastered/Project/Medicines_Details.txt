@@ -1,0 +1,62 @@
+****************AVAILABLE MEDICINES***************
+
+
+1)   Name: Panadol 
+     Dosage: 250mg - 500mg  
+     Company: GlaxoSmithKline 
+     Price: 300 
+====================================================================
+
+2)   Name: Novex 
+     Dosage: 9mg  
+     Company: Getz Pharma (Private) Limited 
+     Price: 550 
+=====================================================================
+
+3)   Name: Wymox 
+     Dosage: 25mg - 45mg  
+     Company: Abbott Laboratories Pakistan Limited 
+     Price: 450 
+======================================================================
+
+4)   Name: Augmentin 
+     Dosage: 2mg  
+     Company: Sami Pharmaceutical (Private) Limited 
+     Price: 200 
+======================================================================
+
+5)   Name: Calamox 
+     Dosage: 5.2mg  
+     Company: The Searle Company Limited 
+     Price: 300 
+======================================================================
+
+6)   Name: Velosef 
+     Dosage: 20mg  
+     Company: Hilton Pharma (Private) Limited 
+     Price: 400 
+======================================================================
+
+7)   Name: Cefspan 
+     Dosage: 300mg  
+     Company: GlaxoSmithKline 
+      Price: 400 
+======================================================================
+
+8)   Name: Tramadol 
+     Dosage: 500mg  
+     Company: Ferozsons Laboratories 
+     Price: 800 
+======================================================================
+
+9)   Name: Ponstan 
+     Dosage: 650mg  
+     Company: Ferozsons Laboratories 
+     Price: 900 
+======================================================================
+
+10)  Name: Zurig 
+     Dosage: 2mg  
+     Company: Abbott Laboratories Pakistan Limited 
+     Price: 200 
+======================================================================
